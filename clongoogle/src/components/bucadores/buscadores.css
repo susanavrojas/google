@@ -1,0 +1,23 @@
+.search-bar {
+   display: flex;
+   justify-content: center;
+   margin: -33 px;
+}
+
+.search-input {
+   width: 50%;
+   padding: 18px;
+   border-radius: 20px;
+   border: 1px solid #ccc;
+   margin-top: -77px;
+   margin-bottom: 25px;
+}
+
+.search-button {
+   padding: 8px 16px;
+   background-color: #f2f2f2;
+   border: none;
+   border-radius: 20px;
+   cursor: pointer;
+   margin-left: 25px;
+}
